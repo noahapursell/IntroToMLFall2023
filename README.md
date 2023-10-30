@@ -11,8 +11,8 @@ Link to Presentation: https://docs.google.com/presentation/d/10o2LNmB5El76Z-BOuW
 5. Navigate into the cloned folder: cd IntroToMLFall2023
 6. Use pip to install requirements: pip install -r requirements4.txt
 7. Install jupyter-notebook: conda install -c conda-forge jupyterlab
-8. Add conda env to juyter notebook: conda install -c anaconda ipykernel
-python -m ipykernel install --user --name=MyFirstEnv
+8. Add conda env to juyter notebook: '''conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=MyFirstEnv'''
 9. Download data folder
 10. Extract data folder inside of cloned folder
 
