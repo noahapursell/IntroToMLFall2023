@@ -6,7 +6,7 @@ Link to Presentation: https://docs.google.com/presentation/d/10o2LNmB5El76Z-BOuW
 
 1. clone repo
 2. Install Anaconda: https://www.anaconda.com/download
-3. Create new environment: conda create --name MyFirstEnv
+3. Create a new environment: conda create --name MyFirstEnv
 4. Activate the environment: conda activate MyFirstEnv
 5. Navigate into the cloned folder: cd IntroToMLFall2023
 6. Use pip to install requirements: pip install -r requirements4.txt
