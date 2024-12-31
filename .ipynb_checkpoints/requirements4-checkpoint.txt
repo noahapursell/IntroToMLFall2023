@@ -45,7 +45,7 @@ pyzmq==25.1.0
 scikit-learn==1.5.0
 scipy==1.11.3
 seaborn==0.13.0
-setuptools==68.0.0
+setuptools==70.0.0
 six==1.16.0
 stack-data==0.2.0
 sympy==1.12
