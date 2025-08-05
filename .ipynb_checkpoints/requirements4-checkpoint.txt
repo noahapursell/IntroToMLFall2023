@@ -51,7 +51,7 @@ stack-data==0.2.0
 sympy==1.12
 threadpoolctl==3.2.0
 torch==2.2.0
-tornado==6.4.2
+tornado==6.5
 traitlets==5.7.1
 typing_extensions==4.8.0
 tzdata==2023.3
